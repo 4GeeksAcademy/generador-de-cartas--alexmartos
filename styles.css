@@ -110,5 +110,5 @@ div.suit-clubs:after {
   bottom: 8px;
   right: 20px;
   color: black;
-  transform: rotate(180deg);
+  transform: rotate(179deg);
 }
